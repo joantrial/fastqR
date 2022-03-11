@@ -1,2 +1,2 @@
 # fastqR
-R studio bioinformatics course
+For R studio bioinformatics course exercise
